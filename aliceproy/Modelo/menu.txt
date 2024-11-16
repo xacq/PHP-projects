@@ -1,0 +1,24 @@
+Kebab	Ternera	4.90	kebab.png	apio, mostaza, sésamo, sulfitos
+Kebab	Pollo	4.90	kebab.png	apio, mostaza, sésamo, sulfitos
+Kebab	Mixto	4.90	kebab.png	apio, mostaza, sésamo, sulfitos
+Kebab	Falafel	5.00	kebab_falafel.png	apio, mostaza, sulfitos
+Durum	Ternera	5.90	durum.png	apio, mostaza, sulfitos
+Durum	Pollo	5.90	durum.png	apio, mostaza, sulfitos
+Durum	Mixto	5.90	durum.png	apio, mostaza, sulfitos
+Durum	Falafel	5.70	durum_falafel.png	apio, sulfitos
+Durum	Atún	5.70	durum_atún.png	pescado, apio, sulfitos
+Pollo	5 piezas	4.00	pollo.png	gluten, huevos
+Pollo	10 piezas	7.00	pollo.png	gluten, huevos
+Otros	Patatas fritas	4.00	p_fritas.png
+Otros	Patatas bravas	4.90	p_bravas.png	gluten, frutos de cáscara
+Otros	Patatas deluxe	4.00	p_deluxe.png	gluten, huevos
+Otros	Arroz	4.00	arroz.png
+Bebida	Agua Cabreiroá 500	1.50	cabreiroá_500.png
+Bebida	Agua Cabreiroá 1500	2.50	cabreiroá_1500.png
+Bebida	Coca Cola	2.30	coke.png
+Bebida	Coca Cola Light	2.30	coke_light.png
+Bebida	Coca Cola Zero	2.30	coke_zero.png
+Bebida	Kas Naranja	2.30	kas_naranja.png
+Bebida	Kas Limón	2.30	kas_limón.png
+Bebida	Aquarius Naranja	2.30	aquarius_naranja.png
+Bebida	Aquarius Limón	2.30	aquarius_limón.png

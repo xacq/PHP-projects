@@ -1,0 +1,10 @@
+usuario,password,nombre_completo,direccion,cp,localidad,telefono,correo,avatar
+juan,123,Juan Pérez,123/Calle Falsa/1/A,28001,Madrid,612345678,juan@example.com,default2.png
+maria,secret,María López,456/Av. Siempreviva/2/B,28002,Madrid,672345678,maria@example.com,maria_avatar.png
+xavier,1234,xavier armando,Canuelas y 1ro de Mayo,010101,loja,09873409834,admin@gmail.com,default.png
+pedro,123456,Pedro Sanchez,lskdjfa;slkj,lkj;ljk;,lkj;lkj;,lk;j;lkj,pedrotorres@gmail.com,default.png
+jose,123,Jose Campos Duarte,Canuelas y 1ro de Mayo,010101,Cuenca,0987654321,jm@gmail.com,default.png
+moncloa,123,Moncloa,123/Calle Falsa/1/A,28001,Madrid,612345678,moncloa@example.com,default2.pngpepito,123,pepe@gmail.compepito,123,pepe@gmail.com
+pepito,1234,pepe@gmail.com
+antonio,123,antonio@gmail.com
+carlos,123,carlos@gmail.com

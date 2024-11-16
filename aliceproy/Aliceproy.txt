@@ -1,0 +1,37 @@
+Este documento describe un proyecto de desarrollo web en entorno servidor para gestionar las ventas de un restaurante de kebab. A continuación, te proporciono un plan de implementación para que puedas desarrollar cada una de las funcionalidades indicadas en el documento:
+
+    Estructura de la Aplicación:
+        Crea una estructura de proyecto en PHP o el lenguaje indicado.
+        Implementa una página de inicio con el menú para las opciones de: Perfil, Generar pedido, Gestión de carta, y Mejores clientes.
+        Añade un banner en la parte superior y un pie de página con derechos de autor en todas las páginas.
+
+    Autenticación de Usuario:
+        Crea un formulario de inicio de sesión en la página principal. Valida que se haya introducido un nombre de usuario para acceder a las opciones.
+        Para la autenticación, utiliza un archivo clientes.txt en formato CSV para almacenar y validar las credenciales de usuario.
+        Implementa funcionalidad para que, una vez autenticado, se muestre el nombre de usuario, su avatar, y un botón de desconexión.
+
+    Gestión de Perfil:
+        Crea un formulario de perfil donde los usuarios puedan gestionar su información personal: 
+        dirección, código postal, localidad, teléfono, correo y avatar.
+        Implementa validaciones de servidor para campos numéricos, formato de teléfono y correo.
+        Permite a los usuarios seleccionar un avatar por defecto o subir uno propio.
+        Guarda la información en el archivo clientes.txt, actualizando los datos si ya existen.
+
+    Generación de Pedidos:
+        Crea un formulario de pedido con secciones para kebabs, pollo, otros platos y bebidas.
+        Carga los menús desde el archivo menu.txt y muestra las opciones de platos con su precio e imágenes de alérgenos.
+        Implementa una funcionalidad para aplicar descuentos en pedidos grandes (5 kebabs o 3 durums iguales).
+        Al finalizar el pedido, muestra una factura detallada en formato de ticket.
+        Guarda los pedidos finalizados en el archivo pedidos.txt.
+
+    Gestión de Carta (Solo para Usuario "moncloa"):
+        Crea una tabla editable para visualizar y modificar los elementos del menú de menu.txt.
+        Permite la adición de nuevos platos.
+
+    Mejores Clientes (Solo para Usuario "moncloa"):
+        Implementa un reporte de los clientes que más han gastado, agrupando por cliente y mostrando su gasto 
+        total, número de pedidos y el gasto promedio.
+
+    Evaluación y Mejora:
+        Asegúrate de utilizar mecanismos como directivas, bucles, matrices y sesiones/cookies para mejorar la funcionalidad y la usabilidad.
+        Documenta cualquier cambio necesario en el archivo despliegue.txt.
